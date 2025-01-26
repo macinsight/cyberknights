@@ -1,6 +1,6 @@
 [
   {
-    " Name": "Moody Hammer",
+    "Name": "Moody Hammer",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -29,7 +29,7 @@
     "(power + pen) * shots": 84
   },
   {
-    " Name": "Moody Hammer",
+    "Name": "Moody Hammer",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -58,7 +58,7 @@
     "(power + pen) * shots": 84
   },
   {
-    " Name": "Moody Hammer",
+    "Name": "Moody Hammer",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -87,7 +87,7 @@
     "(power + pen) * shots": 84
   },
   {
-    " Name": "Moody Hammer",
+    "Name": "Moody Hammer",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -116,7 +116,7 @@
     "(power + pen) * shots": 84
   },
   {
-    " Name": "Thug Spike",
+    "Name": "Thug Spike",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -145,7 +145,7 @@
     "(power + pen) * shots": 60
   },
   {
-    " Name": "Thug Spike",
+    "Name": "Thug Spike",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -174,7 +174,7 @@
     "(power + pen) * shots": 60
   },
   {
-    " Name": "Thug Spike",
+    "Name": "Thug Spike",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -203,7 +203,7 @@
     "(power + pen) * shots": 60
   },
   {
-    " Name": "Thug Spike",
+    "Name": "Thug Spike",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -232,7 +232,7 @@
     "(power + pen) * shots": 60
   },
   {
-    " Name": "Thug Sledge",
+    "Name": "Thug Sledge",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -261,7 +261,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Thug Sledge",
+    "Name": "Thug Sledge",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -290,7 +290,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Thug Sledge",
+    "Name": "Thug Sledge",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -319,7 +319,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Thug Sledge",
+    "Name": "Thug Sledge",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -348,7 +348,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Thug Cutter",
+    "Name": "Thug Cutter",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -377,7 +377,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Thug Cutter",
+    "Name": "Thug Cutter",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -406,7 +406,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Shock Maul",
+    "Name": "Shock Maul",
     "Unique": false,
     "Hund": false,
     "Maker": "Fennian",
@@ -435,7 +435,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Shock Maul",
+    "Name": "Shock Maul",
     "Unique": false,
     "Hund": false,
     "Maker": "Fennian",
@@ -464,7 +464,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Shock Maul",
+    "Name": "Shock Maul",
     "Unique": true,
     "Hund": false,
     "Maker": "Fennian",
@@ -493,7 +493,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Shock Maul",
+    "Name": "Shock Maul",
     "Unique": false,
     "Hund": false,
     "Maker": "Fennian",
@@ -522,7 +522,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Slam Dancer [Model 1]",
+    "Name": "Slam Dancer [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "Los V",
@@ -551,7 +551,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Slam Dancer [Model 1]",
+    "Name": "Slam Dancer [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Los V",
@@ -580,7 +580,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Slam Dancer [Model 1]",
+    "Name": "Slam Dancer [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Los V",
@@ -609,7 +609,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Slam Dancer [Model 1]",
+    "Name": "Slam Dancer [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Los V",
@@ -638,7 +638,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Slam Dancer [Model 1]",
+    "Name": "Slam Dancer [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Los V",
@@ -667,7 +667,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Slam Dancer [Model 2]",
+    "Name": "Slam Dancer [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Los V",
@@ -696,7 +696,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Slam Dancer [Model 2]",
+    "Name": "Slam Dancer [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "Los V",
@@ -725,7 +725,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Slam Dancer [Model 2]",
+    "Name": "Slam Dancer [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Los V",
@@ -754,7 +754,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Cut Hammer",
+    "Name": "Cut Hammer",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -783,7 +783,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "Cut Hammer",
+    "Name": "Cut Hammer",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -812,7 +812,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "Cut Hammer",
+    "Name": "Cut Hammer",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -841,7 +841,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "Skull Smash",
+    "Name": "Skull Smash",
     "Unique": false,
     "Hund": false,
     "Maker": "Fennian",
@@ -870,7 +870,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Skull Smash",
+    "Name": "Skull Smash",
     "Unique": false,
     "Hund": false,
     "Maker": "Fennian",
@@ -899,7 +899,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Skull Smash",
+    "Name": "Skull Smash",
     "Unique": true,
     "Hund": false,
     "Maker": "Fennian",
@@ -928,7 +928,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Doom Hammer",
+    "Name": "Doom Hammer",
     "Unique": true,
     "Hund": false,
     "Maker": "Blue Ox",
@@ -957,7 +957,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Doom Hammer",
+    "Name": "Doom Hammer",
     "Unique": false,
     "Hund": false,
     "Maker": "Blue Ox",
@@ -986,7 +986,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Doom Hammer",
+    "Name": "Doom Hammer",
     "Unique": false,
     "Hund": false,
     "Maker": "Blue Ox",
@@ -1015,7 +1015,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Doom Tomb",
+    "Name": "Doom Tomb",
     "Unique": true,
     "Hund": false,
     "Maker": "Blue Ox",
@@ -1044,7 +1044,7 @@
     "(power + pen) * shots": 52
   },
   {
-    " Name": "Street King",
+    "Name": "Street King",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -1073,7 +1073,7 @@
     "(power + pen) * shots": 78
   },
   {
-    " Name": "Heavy Gloves",
+    "Name": "Heavy Gloves",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -1102,7 +1102,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "Steel Warrior",
+    "Name": "Steel Warrior",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1131,7 +1131,7 @@
     "(power + pen) * shots": 72
   },
   {
-    " Name": "Steel Warrior",
+    "Name": "Steel Warrior",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1160,7 +1160,7 @@
     "(power + pen) * shots": 72
   },
   {
-    " Name": "Steel Warrior",
+    "Name": "Steel Warrior",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1189,7 +1189,7 @@
     "(power + pen) * shots": 72
   },
   {
-    " Name": "Chromers",
+    "Name": "Chromers",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -1218,7 +1218,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Chromers",
+    "Name": "Chromers",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -1247,7 +1247,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Chromers",
+    "Name": "Chromers",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -1276,7 +1276,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Chromers",
+    "Name": "Chromers",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -1305,7 +1305,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Chrome Knuckles [Model 1]",
+    "Name": "Chrome Knuckles [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1334,7 +1334,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Chrome Knuckles [Model 1]",
+    "Name": "Chrome Knuckles [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1363,7 +1363,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Chrome Knuckles [Model 1]",
+    "Name": "Chrome Knuckles [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1392,7 +1392,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Chrome Knuckles [Model 2]",
+    "Name": "Chrome Knuckles [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1421,7 +1421,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Chrome Knuckles [Model 2]",
+    "Name": "Chrome Knuckles [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1450,7 +1450,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Chrome Knuckles [Model 2]",
+    "Name": "Chrome Knuckles [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1479,7 +1479,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Chrome Knuckles [Model 2]",
+    "Name": "Chrome Knuckles [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1508,7 +1508,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Chrome Knuckles [Model 2]",
+    "Name": "Chrome Knuckles [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1537,7 +1537,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Shock Gloves Pro",
+    "Name": "Shock Gloves Pro",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1566,7 +1566,7 @@
     "(power + pen) * shots": 144
   },
   {
-    " Name": "Shock Gloves Pro",
+    "Name": "Shock Gloves Pro",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1595,7 +1595,7 @@
     "(power + pen) * shots": 144
   },
   {
-    " Name": "Shock Gloves Pro",
+    "Name": "Shock Gloves Pro",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1624,7 +1624,7 @@
     "(power + pen) * shots": 144
   },
   {
-    " Name": "Shock Gloves Pro",
+    "Name": "Shock Gloves Pro",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1653,7 +1653,7 @@
     "(power + pen) * shots": 144
   },
   {
-    " Name": "Shock Gloves Pro",
+    "Name": "Shock Gloves Pro",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -1682,7 +1682,7 @@
     "(power + pen) * shots": 144
   },
   {
-    " Name": "MT Chrome Glove",
+    "Name": "MT Chrome Glove",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -1711,7 +1711,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "MT Chrome Glove",
+    "Name": "MT Chrome Glove",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -1740,7 +1740,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Hand Blades",
+    "Name": "Hand Blades",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -1769,7 +1769,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Hand Blades",
+    "Name": "Hand Blades",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -1798,7 +1798,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Hand Blades",
+    "Name": "Hand Blades",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -1827,7 +1827,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Security Glove",
+    "Name": "Security Glove",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -1856,7 +1856,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Security Glove",
+    "Name": "Security Glove",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -1885,7 +1885,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Stunna",
+    "Name": "Stunna",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -1914,7 +1914,7 @@
     "(power + pen) * shots": 144
   },
   {
-    " Name": "MT Chrome Claw",
+    "Name": "MT Chrome Claw",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -1943,7 +1943,7 @@
     "(power + pen) * shots": 72
   },
   {
-    " Name": "MT Chrome Claw",
+    "Name": "MT Chrome Claw",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -1972,7 +1972,7 @@
     "(power + pen) * shots": 72
   },
   {
-    " Name": "Steel Enforcer",
+    "Name": "Steel Enforcer",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2001,7 +2001,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Steel Enforcer",
+    "Name": "Steel Enforcer",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2030,7 +2030,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Steel Enforcer",
+    "Name": "Steel Enforcer",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2059,7 +2059,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "MT Chrome Fist",
+    "Name": "MT Chrome Fist",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -2088,7 +2088,7 @@
     "(power + pen) * shots": 120
   },
   {
-    " Name": "MT Chrome Fist",
+    "Name": "MT Chrome Fist",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -2117,7 +2117,7 @@
     "(power + pen) * shots": 120
   },
   {
-    " Name": "MT Taser Glove",
+    "Name": "MT Taser Glove",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -2146,7 +2146,7 @@
     "(power + pen) * shots": 160
   },
   {
-    " Name": "MT Taser Glove",
+    "Name": "MT Taser Glove",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -2175,7 +2175,7 @@
     "(power + pen) * shots": 160
   },
   {
-    " Name": "Steel Executioner",
+    "Name": "Steel Executioner",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2204,7 +2204,7 @@
     "(power + pen) * shots": 120
   },
   {
-    " Name": "Steel Executioner",
+    "Name": "Steel Executioner",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2233,7 +2233,7 @@
     "(power + pen) * shots": 120
   },
   {
-    " Name": "Steel Enforcer II",
+    "Name": "Steel Enforcer II",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2262,7 +2262,7 @@
     "(power + pen) * shots": 120
   },
   {
-    " Name": "Steel Enforcer II",
+    "Name": "Steel Enforcer II",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2291,7 +2291,7 @@
     "(power + pen) * shots": 120
   },
   {
-    " Name": "Steel Enforcer II",
+    "Name": "Steel Enforcer II",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2320,7 +2320,7 @@
     "(power + pen) * shots": 120
   },
   {
-    " Name": "Hand Razors",
+    "Name": "Hand Razors",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -2349,7 +2349,7 @@
     "(power + pen) * shots": 88
   },
   {
-    " Name": "Lit-Fist Proto",
+    "Name": "Lit-Fist Proto",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2378,7 +2378,7 @@
     "(power + pen) * shots": 176
   },
   {
-    " Name": "Combat Blades",
+    "Name": "Combat Blades",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2407,7 +2407,7 @@
     "(power + pen) * shots": 144
   },
   {
-    " Name": "Combat Blades",
+    "Name": "Combat Blades",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2436,7 +2436,7 @@
     "(power + pen) * shots": 144
   },
   {
-    " Name": "Autogun",
+    "Name": "Autogun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -2465,7 +2465,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Autogun",
+    "Name": "Autogun",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -2494,7 +2494,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Autogun",
+    "Name": "Autogun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -2523,7 +2523,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Autogun",
+    "Name": "Autogun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -2552,7 +2552,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Autogun",
+    "Name": "Autogun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -2581,7 +2581,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "APK-32",
+    "Name": "APK-32",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -2610,7 +2610,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Carbine",
+    "Name": "Carbine",
     "Unique": true,
     "Hund": false,
     "Maker": "Generic",
@@ -2639,7 +2639,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Stub SMG",
+    "Name": "Stub SMG",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -2668,7 +2668,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Stub SMG",
+    "Name": "Stub SMG",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -2697,7 +2697,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Stub SMG",
+    "Name": "Stub SMG",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -2726,7 +2726,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "AK-17",
+    "Name": "AK-17",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2755,7 +2755,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "AK-17",
+    "Name": "AK-17",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2784,7 +2784,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "AK-17",
+    "Name": "AK-17",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2813,7 +2813,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "AK-17",
+    "Name": "AK-17",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2842,7 +2842,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "AK-17",
+    "Name": "AK-17",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2871,7 +2871,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "AK-17",
+    "Name": "AK-17",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2900,7 +2900,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "AK-17",
+    "Name": "AK-17",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2929,7 +2929,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "AK-17",
+    "Name": "AK-17",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2958,7 +2958,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "AK-17",
+    "Name": "AK-17",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -2987,7 +2987,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "MT Heavy Auto",
+    "Name": "MT Heavy Auto",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -3016,7 +3016,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "MT Heavy Auto",
+    "Name": "MT Heavy Auto",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -3045,7 +3045,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "MT Heavy Auto",
+    "Name": "MT Heavy Auto",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -3074,7 +3074,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "MT Heavy Auto",
+    "Name": "MT Heavy Auto",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -3103,7 +3103,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "MT Heavy Auto",
+    "Name": "MT Heavy Auto",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -3132,7 +3132,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "MT Heavy Auto",
+    "Name": "MT Heavy Auto",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -3161,7 +3161,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "AK-MiG IV",
+    "Name": "AK-MiG IV",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -3190,7 +3190,7 @@
     "(power + pen) * shots": 88
   },
   {
-    " Name": "Assault Rifle",
+    "Name": "Assault Rifle",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -3219,7 +3219,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "Saadr Assault D",
+    "Name": "Saadr Assault D",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -3248,7 +3248,7 @@
     "(power + pen) * shots": 72
   },
   {
-    " Name": "Saadr Assault D",
+    "Name": "Saadr Assault D",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -3277,7 +3277,7 @@
     "(power + pen) * shots": 72
   },
   {
-    " Name": "Blaze Model IV",
+    "Name": "Blaze Model IV",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -3306,7 +3306,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Blaze Model IV",
+    "Name": "Blaze Model IV",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -3335,7 +3335,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Blaze Model IV",
+    "Name": "Blaze Model IV",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -3364,7 +3364,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Blaze Model IV",
+    "Name": "Blaze Model IV",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -3393,7 +3393,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Steel Wave II",
+    "Name": "Steel Wave II",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -3422,7 +3422,7 @@
     "(power + pen) * shots": 90
   },
   {
-    " Name": "Steel Wave II",
+    "Name": "Steel Wave II",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -3451,7 +3451,7 @@
     "(power + pen) * shots": 90
   },
   {
-    " Name": "AutoFire Liquid",
+    "Name": "AutoFire Liquid",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -3480,7 +3480,7 @@
     "(power + pen) * shots": 88
   },
   {
-    " Name": "AutoFire Liquid",
+    "Name": "AutoFire Liquid",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -3509,7 +3509,7 @@
     "(power + pen) * shots": 88
   },
   {
-    " Name": "MX Defender",
+    "Name": "MX Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -3538,7 +3538,7 @@
     "(power + pen) * shots": 88
   },
   {
-    " Name": "MX Defender",
+    "Name": "MX Defender",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -3567,7 +3567,7 @@
     "(power + pen) * shots": 88
   },
   {
-    " Name": "HPX 59",
+    "Name": "HPX 59",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -3596,7 +3596,7 @@
     "(power + pen) * shots": 112
   },
   {
-    " Name": "Blaze Model VII",
+    "Name": "Blaze Model VII",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -3625,7 +3625,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "M21 Assault Rifle",
+    "Name": "M21 Assault Rifle",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -3654,7 +3654,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "M21 Assault Rifle",
+    "Name": "M21 Assault Rifle",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -3683,7 +3683,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "M21 Assault Rifle",
+    "Name": "M21 Assault Rifle",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -3712,7 +3712,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "MT Mongoose Proto",
+    "Name": "MT Mongoose Proto",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -3741,7 +3741,7 @@
     "(power + pen) * shots": 144
   },
   {
-    " Name": "Machine Pistol",
+    "Name": "Machine Pistol",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -3770,7 +3770,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Machine Pistol",
+    "Name": "Machine Pistol",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -3799,7 +3799,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Machine Pistol",
+    "Name": "Machine Pistol",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -3828,7 +3828,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Machine Pistol",
+    "Name": "Machine Pistol",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -3857,7 +3857,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "SMG [Model 1]",
+    "Name": "SMG [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -3886,7 +3886,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "SMG [Model 1]",
+    "Name": "SMG [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -3915,7 +3915,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "SMG [Model 1]",
+    "Name": "SMG [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -3944,7 +3944,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "SMG [Model 1]",
+    "Name": "SMG [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -3973,7 +3973,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "Rapidfire",
+    "Name": "Rapidfire",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -4002,7 +4002,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Rapidfire",
+    "Name": "Rapidfire",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -4031,7 +4031,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Rapidfire",
+    "Name": "Rapidfire",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -4060,7 +4060,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Hold Out Pistol [Model 1]",
+    "Name": "Hold Out Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -4089,7 +4089,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Hold Out Pistol [Model 1]",
+    "Name": "Hold Out Pistol [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -4118,7 +4118,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Hold Out Pistol [Model 1]",
+    "Name": "Hold Out Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -4147,7 +4147,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Pistol [Model 1]",
+    "Name": "Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -4176,7 +4176,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Pistol [Model 1]",
+    "Name": "Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -4205,7 +4205,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Pistol [Model 1]",
+    "Name": "Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -4234,7 +4234,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Pistol [Model 1]",
+    "Name": "Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -4263,7 +4263,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Pistol [Model 1]",
+    "Name": "Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -4292,7 +4292,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Pistol [Model 1]",
+    "Name": "Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -4321,7 +4321,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Pistol [Model 1]",
+    "Name": "Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -4350,7 +4350,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Pistol [Model 1]",
+    "Name": "Pistol [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -4379,7 +4379,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "HNK-447",
+    "Name": "HNK-447",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -4408,7 +4408,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "HNK-447",
+    "Name": "HNK-447",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -4437,7 +4437,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "HNK-447",
+    "Name": "HNK-447",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -4466,7 +4466,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "HNK-447",
+    "Name": "HNK-447",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -4495,7 +4495,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "HNK-447",
+    "Name": "HNK-447",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -4524,7 +4524,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "HNK-447",
+    "Name": "HNK-447",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -4553,7 +4553,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "HNK-447",
+    "Name": "HNK-447",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -4582,7 +4582,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "MT Tactical Auto",
+    "Name": "MT Tactical Auto",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -4611,7 +4611,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "MT Tactical Auto",
+    "Name": "MT Tactical Auto",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -4640,7 +4640,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "MT Tactical Auto",
+    "Name": "MT Tactical Auto",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -4669,7 +4669,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "SMG [Model 2]",
+    "Name": "SMG [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "Generic",
@@ -4698,7 +4698,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "UZI VII [Model 1]",
+    "Name": "UZI VII [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -4727,7 +4727,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "UZI VII [Model 1]",
+    "Name": "UZI VII [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -4756,7 +4756,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "UZI VII [Model 1]",
+    "Name": "UZI VII [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -4785,7 +4785,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "H3 Retaliation",
+    "Name": "H3 Retaliation",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -4814,7 +4814,7 @@
     "(power + pen) * shots": 112
   },
   {
-    " Name": "H3 Retaliation",
+    "Name": "H3 Retaliation",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -4843,7 +4843,7 @@
     "(power + pen) * shots": 112
   },
   {
-    " Name": "H3 Retaliation",
+    "Name": "H3 Retaliation",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -4872,7 +4872,7 @@
     "(power + pen) * shots": 112
   },
   {
-    " Name": "H3 Retaliation",
+    "Name": "H3 Retaliation",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -4901,7 +4901,7 @@
     "(power + pen) * shots": 112
   },
   {
-    " Name": "MT Steel Snake",
+    "Name": "MT Steel Snake",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -4930,7 +4930,7 @@
     "(power + pen) * shots": 112
   },
   {
-    " Name": "MT Steel Snake",
+    "Name": "MT Steel Snake",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -4959,7 +4959,7 @@
     "(power + pen) * shots": 112
   },
   {
-    " Name": "MT Steel Snake",
+    "Name": "MT Steel Snake",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -4988,7 +4988,7 @@
     "(power + pen) * shots": 112
   },
   {
-    " Name": "MT Steel Snake",
+    "Name": "MT Steel Snake",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -5017,7 +5017,7 @@
     "(power + pen) * shots": 112
   },
   {
-    " Name": "Lightfire",
+    "Name": "Lightfire",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -5046,7 +5046,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "Lightfire",
+    "Name": "Lightfire",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -5075,7 +5075,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "Lightfire",
+    "Name": "Lightfire",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -5104,7 +5104,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "Lightfire",
+    "Name": "Lightfire",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -5133,7 +5133,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "Lightfire",
+    "Name": "Lightfire",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -5162,7 +5162,7 @@
     "(power + pen) * shots": 56
   },
   {
-    " Name": "Heavy Pistol [Model 1]",
+    "Name": "Heavy Pistol [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -5191,7 +5191,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Heavy Pistol [Model 1]",
+    "Name": "Heavy Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -5220,7 +5220,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Heavy Pistol [Model 1]",
+    "Name": "Heavy Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -5249,7 +5249,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Heavy Pistol [Model 1]",
+    "Name": "Heavy Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -5278,7 +5278,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Heavy Pistol [Model 1]",
+    "Name": "Heavy Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -5307,7 +5307,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Heavy Pistol [Model 1]",
+    "Name": "Heavy Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -5336,7 +5336,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Heavy Pistol [Model 1]",
+    "Name": "Heavy Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -5365,7 +5365,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Heavy Pistol [Model 1]",
+    "Name": "Heavy Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -5394,7 +5394,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "UZI VII [Model 2]",
+    "Name": "UZI VII [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -5423,7 +5423,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Scoped Heavy Pistol",
+    "Name": "Scoped Heavy Pistol",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -5452,7 +5452,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Scoped Heavy Pistol",
+    "Name": "Scoped Heavy Pistol",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -5481,7 +5481,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Scoped Heavy Pistol",
+    "Name": "Scoped Heavy Pistol",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -5510,7 +5510,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Scoped Heavy Pistol",
+    "Name": "Scoped Heavy Pistol",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -5539,7 +5539,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "AutoMag Cobra",
+    "Name": "AutoMag Cobra",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -5568,7 +5568,7 @@
     "(power + pen) * shots": 128
   },
   {
-    " Name": "AutoMag Cobra",
+    "Name": "AutoMag Cobra",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -5597,7 +5597,7 @@
     "(power + pen) * shots": 128
   },
   {
-    " Name": "ExecuTazer",
+    "Name": "ExecuTazer",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -5626,7 +5626,7 @@
     "(power + pen) * shots": 20
   },
   {
-    " Name": "ExecuTazer",
+    "Name": "ExecuTazer",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -5655,7 +5655,7 @@
     "(power + pen) * shots": 20
   },
   {
-    " Name": "A4 Defender",
+    "Name": "A4 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -5684,7 +5684,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "A4 Defender",
+    "Name": "A4 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -5713,7 +5713,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "A4 Defender",
+    "Name": "A4 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -5742,7 +5742,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "A4 Defender",
+    "Name": "A4 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -5771,7 +5771,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "A4 Defender",
+    "Name": "A4 Defender",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -5800,7 +5800,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "A4 Defender",
+    "Name": "A4 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -5829,7 +5829,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "Ares Delta II",
+    "Name": "Ares Delta II",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -5858,7 +5858,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "Ares Delta II",
+    "Name": "Ares Delta II",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -5887,7 +5887,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "Ares Delta II",
+    "Name": "Ares Delta II",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -5916,7 +5916,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "Ares Delta II",
+    "Name": "Ares Delta II",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -5945,7 +5945,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "Ares Delta II",
+    "Name": "Ares Delta II",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -5974,7 +5974,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "Shocker Gun",
+    "Name": "Shocker Gun",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -6003,7 +6003,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "Shocker Gun",
+    "Name": "Shocker Gun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -6032,7 +6032,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "Shocker Gun",
+    "Name": "Shocker Gun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -6061,7 +6061,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "Shocker Gun",
+    "Name": "Shocker Gun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -6090,7 +6090,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "Light Pistol",
+    "Name": "Light Pistol",
     "Unique": true,
     "Hund": false,
     "Maker": "Generic",
@@ -6119,7 +6119,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Hold Out Pistol [Model 2]",
+    "Name": "Hold Out Pistol [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6148,7 +6148,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Hold Out Pistol [Model 2]",
+    "Name": "Hold Out Pistol [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6177,7 +6177,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Hold Out Pistol [Model 2]",
+    "Name": "Hold Out Pistol [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6206,7 +6206,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Hold Out Pistol [Model 2]",
+    "Name": "Hold Out Pistol [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6235,7 +6235,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Hold Out Pistol [Model 2]",
+    "Name": "Hold Out Pistol [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6264,7 +6264,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Hold Out Pistol [Model 2]",
+    "Name": "Hold Out Pistol [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6293,7 +6293,7 @@
     "(power + pen) * shots": 28
   },
   {
-    " Name": "Hold Out Puncher",
+    "Name": "Hold Out Puncher",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6322,7 +6322,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Hold Out Puncher",
+    "Name": "Hold Out Puncher",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6351,7 +6351,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Pistol [Model 2]",
+    "Name": "Pistol [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -6380,7 +6380,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Pistol [Model 2]",
+    "Name": "Pistol [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -6409,7 +6409,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Slimline Pistol",
+    "Name": "Slimline Pistol",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -6438,7 +6438,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Slimline Pistol",
+    "Name": "Slimline Pistol",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -6467,7 +6467,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Slimline Pistol",
+    "Name": "Slimline Pistol",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -6496,7 +6496,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Heavy Pistol [Model 2]",
+    "Name": "Heavy Pistol [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "Generic",
@@ -6525,7 +6525,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "MT Executive Pistol [Model 1]",
+    "Name": "MT Executive Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -6554,7 +6554,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "MT Executive Pistol [Model 1]",
+    "Name": "MT Executive Pistol [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -6583,7 +6583,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "MT Executive Pistol [Model 1]",
+    "Name": "MT Executive Pistol [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -6612,7 +6612,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "Heavy Revolver",
+    "Name": "Heavy Revolver",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6641,7 +6641,7 @@
     "(power + pen) * shots": 44
   },
   {
-    " Name": "Heavy Revolver",
+    "Name": "Heavy Revolver",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6670,7 +6670,7 @@
     "(power + pen) * shots": 44
   },
   {
-    " Name": "Heavy Revolver",
+    "Name": "Heavy Revolver",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6699,7 +6699,7 @@
     "(power + pen) * shots": 44
   },
   {
-    " Name": "Heavy Revolver",
+    "Name": "Heavy Revolver",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6728,7 +6728,7 @@
     "(power + pen) * shots": 44
   },
   {
-    " Name": "Heavy Revolver",
+    "Name": "Heavy Revolver",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6757,7 +6757,7 @@
     "(power + pen) * shots": 44
   },
   {
-    " Name": "Heavy Revolver",
+    "Name": "Heavy Revolver",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6786,7 +6786,7 @@
     "(power + pen) * shots": 44
   },
   {
-    " Name": "MT Executive Pistol [Model 2]",
+    "Name": "MT Executive Pistol [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -6815,7 +6815,7 @@
     "(power + pen) * shots": 44
   },
   {
-    " Name": "MT Executive Pistol [Model 2]",
+    "Name": "MT Executive Pistol [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -6844,7 +6844,7 @@
     "(power + pen) * shots": 44
   },
   {
-    " Name": "MT Executive Pistol [Model 2]",
+    "Name": "MT Executive Pistol [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -6873,7 +6873,7 @@
     "(power + pen) * shots": 44
   },
   {
-    " Name": "AutoMag Neuvolver [Model 1]",
+    "Name": "AutoMag Neuvolver [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6902,7 +6902,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "AutoMag Neuvolver [Model 1]",
+    "Name": "AutoMag Neuvolver [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6931,7 +6931,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "AutoMag Neuvolver [Model 1]",
+    "Name": "AutoMag Neuvolver [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6960,7 +6960,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "AutoMag Neuvolver [Model 1]",
+    "Name": "AutoMag Neuvolver [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -6989,7 +6989,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "AutoMag Neuvolver [Model 1]",
+    "Name": "AutoMag Neuvolver [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -7018,7 +7018,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "AutoMag Neuvolver [Model 1]",
+    "Name": "AutoMag Neuvolver [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -7047,7 +7047,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Slugger",
+    "Name": "Slugger",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -7076,7 +7076,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Slugger",
+    "Name": "Slugger",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -7105,7 +7105,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Slugger",
+    "Name": "Slugger",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -7134,7 +7134,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "K37 Hand Cannon",
+    "Name": "K37 Hand Cannon",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7163,7 +7163,7 @@
     "(power + pen) * shots": 45
   },
   {
-    " Name": "K37 Hand Cannon",
+    "Name": "K37 Hand Cannon",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7192,7 +7192,7 @@
     "(power + pen) * shots": 45
   },
   {
-    " Name": "K37 Hand Cannon",
+    "Name": "K37 Hand Cannon",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7221,7 +7221,7 @@
     "(power + pen) * shots": 45
   },
   {
-    " Name": "Raptor III",
+    "Name": "Raptor III",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7250,7 +7250,7 @@
     "(power + pen) * shots": 51
   },
   {
-    " Name": "Raptor III",
+    "Name": "Raptor III",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7279,7 +7279,7 @@
     "(power + pen) * shots": 51
   },
   {
-    " Name": "Raptor III",
+    "Name": "Raptor III",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7308,7 +7308,7 @@
     "(power + pen) * shots": 51
   },
   {
-    " Name": "Raptor III",
+    "Name": "Raptor III",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7337,7 +7337,7 @@
     "(power + pen) * shots": 51
   },
   {
-    " Name": "Raptor III",
+    "Name": "Raptor III",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7366,7 +7366,7 @@
     "(power + pen) * shots": 51
   },
   {
-    " Name": "A9 Defender",
+    "Name": "A9 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -7395,7 +7395,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "A9 Defender",
+    "Name": "A9 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -7424,7 +7424,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "A9 Defender",
+    "Name": "A9 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -7453,7 +7453,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "A9 Defender",
+    "Name": "A9 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -7482,7 +7482,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "A9 Defender",
+    "Name": "A9 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -7511,7 +7511,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "A9 Defender",
+    "Name": "A9 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -7540,7 +7540,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "A9 Defender",
+    "Name": "A9 Defender",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -7569,7 +7569,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "A9 Defender",
+    "Name": "A9 Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -7598,7 +7598,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Ares Gamma Mk3",
+    "Name": "Ares Gamma Mk3",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7627,7 +7627,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Ares Gamma Mk3",
+    "Name": "Ares Gamma Mk3",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7656,7 +7656,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Ares Gamma Mk3",
+    "Name": "Ares Gamma Mk3",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7685,7 +7685,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Ares Gamma Mk3",
+    "Name": "Ares Gamma Mk3",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7714,7 +7714,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Ares Gamma Mk3",
+    "Name": "Ares Gamma Mk3",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7743,7 +7743,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Ares Gamma Mk3",
+    "Name": "Ares Gamma Mk3",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7772,7 +7772,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Blasta Gun",
+    "Name": "Blasta Gun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -7801,7 +7801,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Blasta Gun",
+    "Name": "Blasta Gun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -7830,7 +7830,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Blasta Gun",
+    "Name": "Blasta Gun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -7859,7 +7859,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Blasta Gun",
+    "Name": "Blasta Gun",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -7888,7 +7888,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Ares Gamma Mk4",
+    "Name": "Ares Gamma Mk4",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7917,7 +7917,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Ares Gamma Mk4",
+    "Name": "Ares Gamma Mk4",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7946,7 +7946,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Ares Gamma Mk4",
+    "Name": "Ares Gamma Mk4",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -7975,7 +7975,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "AutoMag Neuvolver [Model 2]",
+    "Name": "AutoMag Neuvolver [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -8004,7 +8004,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "AutoMag Neuvolver [Model 2]",
+    "Name": "AutoMag Neuvolver [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -8033,7 +8033,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Raptor II",
+    "Name": "Raptor II",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -8062,7 +8062,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Raptor II",
+    "Name": "Raptor II",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -8091,7 +8091,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Raptor II",
+    "Name": "Raptor II",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -8120,7 +8120,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Protector",
+    "Name": "Protector",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -8149,7 +8149,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Defensor MT",
+    "Name": "Defensor MT",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -8178,7 +8178,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "Defensor MT",
+    "Name": "Defensor MT",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -8207,7 +8207,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "Guard Knight",
+    "Name": "Guard Knight",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -8236,7 +8236,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Guard Knight",
+    "Name": "Guard Knight",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -8265,7 +8265,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "Grande Knight",
+    "Name": "Grande Knight",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -8294,7 +8294,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "Grande Knight",
+    "Name": "Grande Knight",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -8323,7 +8323,7 @@
     "(power + pen) * shots": 54
   },
   {
-    " Name": "Scout CarboMag",
+    "Name": "Scout CarboMag",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -8352,7 +8352,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "Scout SplinterMag",
+    "Name": "Scout SplinterMag",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -8381,7 +8381,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Scout SplinterMag",
+    "Name": "Scout SplinterMag",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -8410,7 +8410,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Scout SplinterMag",
+    "Name": "Scout SplinterMag",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -8439,7 +8439,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "Scout SplinterMag",
+    "Name": "Scout SplinterMag",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -8468,7 +8468,7 @@
     "(power + pen) * shots": 32
   },
   {
-    " Name": "MT Street Hunter [Model 1]",
+    "Name": "MT Street Hunter [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -8497,7 +8497,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "MT Street Hunter [Model 1]",
+    "Name": "MT Street Hunter [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -8526,7 +8526,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "MT Street Hunter [Model 2]",
+    "Name": "MT Street Hunter [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -8555,7 +8555,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "Strumwhelger M2",
+    "Name": "Strumwhelger M2",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -8584,7 +8584,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Strumwhelger M2",
+    "Name": "Strumwhelger M2",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -8613,7 +8613,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Strumwhelger M2",
+    "Name": "Strumwhelger M2",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -8642,7 +8642,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Strumwhelger M2",
+    "Name": "Strumwhelger M2",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -8671,7 +8671,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Strumwhelger M2",
+    "Name": "Strumwhelger M2",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -8700,7 +8700,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Twitch-Carbine [Model 1]",
+    "Name": "Twitch-Carbine [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -8729,7 +8729,7 @@
     "(power + pen) * shots": 60
   },
   {
-    " Name": "Twitch-Carbine [Model 2]",
+    "Name": "Twitch-Carbine [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -8758,7 +8758,7 @@
     "(power + pen) * shots": 60
   },
   {
-    " Name": "Twitch-Carbine [Model 2]",
+    "Name": "Twitch-Carbine [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -8787,7 +8787,7 @@
     "(power + pen) * shots": 60
   },
   {
-    " Name": "Twitch-Carbine [Model 2]",
+    "Name": "Twitch-Carbine [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -8816,7 +8816,7 @@
     "(power + pen) * shots": 60
   },
   {
-    " Name": "X2 Precision [Model 1]",
+    "Name": "X2 Precision [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -8845,7 +8845,7 @@
     "(power + pen) * shots": 30
   },
   {
-    " Name": "X2 Precision [Model 2]",
+    "Name": "X2 Precision [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -8874,7 +8874,7 @@
     "(power + pen) * shots": 33
   },
   {
-    " Name": "Chicago S-Series Carbine",
+    "Name": "Chicago S-Series Carbine",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -8903,7 +8903,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "Chicago S-Series Carbine",
+    "Name": "Chicago S-Series Carbine",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -8932,7 +8932,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "Chicago S-Series Carbine",
+    "Name": "Chicago S-Series Carbine",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -8961,7 +8961,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "MT Street Scout",
+    "Name": "MT Street Scout",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -8990,7 +8990,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "Mk251 Bounty [Model 1]",
+    "Name": "Mk251 Bounty [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -9019,7 +9019,7 @@
     "(power + pen) * shots": 72
   },
   {
-    " Name": "Mk251 Bounty [Model 2]",
+    "Name": "Mk251 Bounty [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -9048,7 +9048,7 @@
     "(power + pen) * shots": 72
   },
   {
-    " Name": "Mk251 Bounty [Model 2]",
+    "Name": "Mk251 Bounty [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -9077,7 +9077,7 @@
     "(power + pen) * shots": 72
   },
   {
-    " Name": "HunterSight [Model 1]",
+    "Name": "HunterSight [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -9106,7 +9106,7 @@
     "(power + pen) * shots": 84
   },
   {
-    " Name": "HunterSight [Model 2]",
+    "Name": "HunterSight [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -9135,7 +9135,7 @@
     "(power + pen) * shots": 84
   },
   {
-    " Name": "HunterSight [Model 2]",
+    "Name": "HunterSight [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -9164,7 +9164,7 @@
     "(power + pen) * shots": 84
   },
   {
-    " Name": "HunterSight [Model 2]",
+    "Name": "HunterSight [Model 2]",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -9193,7 +9193,7 @@
     "(power + pen) * shots": 84
   },
   {
-    " Name": "HeavyShot 202",
+    "Name": "HeavyShot 202",
     "Unique": true,
     "Hund": false,
     "Maker": "Generic",
@@ -9222,7 +9222,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "HeavyShot 202",
+    "Name": "HeavyShot 202",
     "Unique": false,
     "Hund": false,
     "Maker": "Generic",
@@ -9251,7 +9251,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "HeavyShot 202",
+    "Name": "HeavyShot 202",
     "Unique": false,
     "Hund": false,
     "Maker": "Generic",
@@ -9280,7 +9280,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "HeavyShot 202",
+    "Name": "HeavyShot 202",
     "Unique": false,
     "Hund": false,
     "Maker": "Generic",
@@ -9309,7 +9309,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Sawed-off Shotgun",
+    "Name": "Sawed-off Shotgun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -9338,7 +9338,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Sawed-off Shotgun",
+    "Name": "Sawed-off Shotgun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -9367,7 +9367,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Sawed-off Shotgun",
+    "Name": "Sawed-off Shotgun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -9396,7 +9396,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Sawed-off Shotgun",
+    "Name": "Sawed-off Shotgun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -9425,7 +9425,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Sawed-off Shotgun",
+    "Name": "Sawed-off Shotgun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -9454,7 +9454,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "Sawed-off Shotgun",
+    "Name": "Sawed-off Shotgun",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -9483,7 +9483,7 @@
     "(power + pen) * shots": 64
   },
   {
-    " Name": "SR 17",
+    "Name": "SR 17",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -9512,7 +9512,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "SR 17",
+    "Name": "SR 17",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -9541,7 +9541,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "SR 17",
+    "Name": "SR 17",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -9570,7 +9570,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "SR 17",
+    "Name": "SR 17",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -9599,7 +9599,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "SR 17",
+    "Name": "SR 17",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -9628,7 +9628,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "SR 17",
+    "Name": "SR 17",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -9657,7 +9657,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "SR 17",
+    "Name": "SR 17",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -9686,7 +9686,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "SR17",
+    "Name": "SR17",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -9715,7 +9715,7 @@
     "(power + pen) * shots": 80
   },
   {
-    " Name": "Shotgun",
+    "Name": "Shotgun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -9744,7 +9744,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "Shotgun",
+    "Name": "Shotgun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -9773,7 +9773,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "Shotgun",
+    "Name": "Shotgun",
     "Unique": true,
     "Hund": false,
     "Maker": "Street",
@@ -9802,7 +9802,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "Shotgun",
+    "Name": "Shotgun",
     "Unique": false,
     "Hund": false,
     "Maker": "Street",
@@ -9831,7 +9831,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "Security Defender",
+    "Name": "Security Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -9860,7 +9860,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Security Defender",
+    "Name": "Security Defender",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -9889,7 +9889,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Security Defender",
+    "Name": "Security Defender",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -9918,7 +9918,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "SR Destroyer [Model 1]",
+    "Name": "SR Destroyer [Model 1]",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -9947,7 +9947,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "SR Destroyer [Model 1]",
+    "Name": "SR Destroyer [Model 1]",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -9976,7 +9976,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "SR Destroyer [Model 2]",
+    "Name": "SR Destroyer [Model 2]",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10005,7 +10005,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "HPX 61",
+    "Name": "HPX 61",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10034,7 +10034,7 @@
     "(power + pen) * shots": 96
   },
   {
-    " Name": "Iron Warrior",
+    "Name": "Iron Warrior",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10063,7 +10063,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "Iron Warrior",
+    "Name": "Iron Warrior",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10092,7 +10092,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "Iron Warrior",
+    "Name": "Iron Warrior",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10121,7 +10121,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "Coso Shotgun XII",
+    "Name": "Coso Shotgun XII",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10150,7 +10150,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Fallaugh Loader",
+    "Name": "Fallaugh Loader",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10179,7 +10179,7 @@
     "(power + pen) * shots": 45
   },
   {
-    " Name": "Fallaugh Loader",
+    "Name": "Fallaugh Loader",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10208,7 +10208,7 @@
     "(power + pen) * shots": 45
   },
   {
-    " Name": "Fallaugh Loader",
+    "Name": "Fallaugh Loader",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10237,7 +10237,7 @@
     "(power + pen) * shots": 45
   },
   {
-    " Name": "SR 19X",
+    "Name": "SR 19X",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10266,7 +10266,7 @@
     "(power + pen) * shots": 78
   },
   {
-    " Name": "SR 19X",
+    "Name": "SR 19X",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10295,7 +10295,7 @@
     "(power + pen) * shots": 78
   },
   {
-    " Name": "Fallaugh Devastator",
+    "Name": "Fallaugh Devastator",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10324,7 +10324,7 @@
     "(power + pen) * shots": 48
   },
   {
-    " Name": "X7 Rapid Fire",
+    "Name": "X7 Rapid Fire",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -10353,7 +10353,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Scout PeneMag",
+    "Name": "Scout PeneMag",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -10382,7 +10382,7 @@
     "(power + pen) * shots": 90
   },
   {
-    " Name": "Jaguar Warrior",
+    "Name": "Jaguar Warrior",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10411,7 +10411,7 @@
     "(power + pen) * shots": 34
   },
   {
-    " Name": "Jaguar Warrior",
+    "Name": "Jaguar Warrior",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10440,7 +10440,7 @@
     "(power + pen) * shots": 34
   },
   {
-    " Name": "FN-PAR 85mm",
+    "Name": "FN-PAR 85mm",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10469,7 +10469,7 @@
     "(power + pen) * shots": 34
   },
   {
-    " Name": "FN-PAR 85mm",
+    "Name": "FN-PAR 85mm",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10498,7 +10498,7 @@
     "(power + pen) * shots": 34
   },
   {
-    " Name": "FN-PAR 85mm",
+    "Name": "FN-PAR 85mm",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10527,7 +10527,7 @@
     "(power + pen) * shots": 34
   },
   {
-    " Name": "MT Hunting Rifle",
+    "Name": "MT Hunting Rifle",
     "Unique": false,
     "Hund": false,
     "Maker": "Yakashima",
@@ -10556,7 +10556,7 @@
     "(power + pen) * shots": 34
   },
   {
-    " Name": "MT Hunting Rifle",
+    "Name": "MT Hunting Rifle",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -10585,7 +10585,7 @@
     "(power + pen) * shots": 34
   },
   {
-    " Name": "Panther Cannon",
+    "Name": "Panther Cannon",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10614,7 +10614,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "Panther Cannon",
+    "Name": "Panther Cannon",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10643,7 +10643,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "Panther Cannon",
+    "Name": "Panther Cannon",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10672,7 +10672,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "ScopeTek Panther",
+    "Name": "ScopeTek Panther",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10701,7 +10701,7 @@
     "(power + pen) * shots": 36
   },
   {
-    " Name": "FN-PAR 65mm",
+    "Name": "FN-PAR 65mm",
     "Unique": false,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10730,7 +10730,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "FN-PAR 65mm",
+    "Name": "FN-PAR 65mm",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10759,7 +10759,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "Jaguar Warrior XEP",
+    "Name": "Jaguar Warrior XEP",
     "Unique": true,
     "Hund": false,
     "Maker": "AzTek Global",
@@ -10788,7 +10788,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "LR-15 Bokmok",
+    "Name": "LR-15 Bokmok",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10817,7 +10817,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "LR-15 Bokmok",
+    "Name": "LR-15 Bokmok",
     "Unique": true,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10846,7 +10846,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "LR-15 Bokmok",
+    "Name": "LR-15 Bokmok",
     "Unique": false,
     "Hund": false,
     "Maker": "Mars Corp",
@@ -10875,7 +10875,7 @@
     "(power + pen) * shots": 40
   },
   {
-    " Name": "MT Anti-Material",
+    "Name": "MT Anti-Material",
     "Unique": true,
     "Hund": false,
     "Maker": "Yakashima",
@@ -10904,7 +10904,7 @@
     "(power + pen) * shots": 42
   },
   {
-    " Name": "Hund Teeth [Hund only]",
+    "Name": "Hund Teeth [Hund only]",
     "Unique": true,
     "Hund": true,
     "Maker": "All Natural",
@@ -10933,7 +10933,7 @@
     "(power + pen) * shots": 84
   },
   {
-    " Name": "Knashers [Hund only]",
+    "Name": "Knashers [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Street",
@@ -10962,7 +10962,7 @@
     "(power + pen) * shots": 144
   },
   {
-    " Name": "Knashers [Hund only]",
+    "Name": "Knashers [Hund only]",
     "Unique": true,
     "Hund": true,
     "Maker": "Street",
@@ -10991,7 +10991,7 @@
     "(power + pen) * shots": 144
   },
   {
-    " Name": "Shock Maw I [Hund only]",
+    "Name": "Shock Maw I [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Yakashima",
@@ -11020,7 +11020,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Shock Maw I [Hund only]",
+    "Name": "Shock Maw I [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Yakashima",
@@ -11049,7 +11049,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Shock Maw I [Hund only]",
+    "Name": "Shock Maw I [Hund only]",
     "Unique": true,
     "Hund": true,
     "Maker": "Yakashima",
@@ -11078,7 +11078,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Shock Maw I [Hund only]",
+    "Name": "Shock Maw I [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Yakashima",
@@ -11107,7 +11107,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Retaliation Jaw [Hund only]",
+    "Name": "Retaliation Jaw [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Mars Corp",
@@ -11136,7 +11136,7 @@
     "(power + pen) * shots": 120
   },
   {
-    " Name": "Retaliation Jaw [Hund only]",
+    "Name": "Retaliation Jaw [Hund only]",
     "Unique": true,
     "Hund": true,
     "Maker": "Mars Corp",
@@ -11165,7 +11165,7 @@
     "(power + pen) * shots": 120
   },
   {
-    " Name": "Shock Maw II [Hund only]",
+    "Name": "Shock Maw II [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Yakashima",
@@ -11194,7 +11194,7 @@
     "(power + pen) * shots": 160
   },
   {
-    " Name": "Shock Maw II [Hund only]",
+    "Name": "Shock Maw II [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Yakashima",
@@ -11223,7 +11223,7 @@
     "(power + pen) * shots": 160
   },
   {
-    " Name": "Shock Maw II [Hund only]",
+    "Name": "Shock Maw II [Hund only]",
     "Unique": true,
     "Hund": true,
     "Maker": "Yakashima",
@@ -11252,7 +11252,7 @@
     "(power + pen) * shots": 160
   },
   {
-    " Name": "Shock Maw II [Hund only]",
+    "Name": "Shock Maw II [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Yakashima",
@@ -11281,7 +11281,7 @@
     "(power + pen) * shots": 160
   },
   {
-    " Name": "Chrome Teeth [Hund only]",
+    "Name": "Chrome Teeth [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Street",
@@ -11310,7 +11310,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Chrome Teeth [Hund only]",
+    "Name": "Chrome Teeth [Hund only]",
     "Unique": true,
     "Hund": true,
     "Maker": "Street",
@@ -11339,7 +11339,7 @@
     "(power + pen) * shots": 108
   },
   {
-    " Name": "Hydraulic Jaw I [Hund only]",
+    "Name": "Hydraulic Jaw I [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Mars Corp",
@@ -11368,7 +11368,7 @@
     "(power + pen) * shots": 52
   },
   {
-    " Name": "Hydraulic Jaw I [Hund only]",
+    "Name": "Hydraulic Jaw I [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Mars Corp",
@@ -11397,7 +11397,7 @@
     "(power + pen) * shots": 52
   },
   {
-    " Name": "Hydraulic Jaw I [Hund only]",
+    "Name": "Hydraulic Jaw I [Hund only]",
     "Unique": true,
     "Hund": true,
     "Maker": "Mars Corp",
@@ -11426,7 +11426,7 @@
     "(power + pen) * shots": 52
   },
   {
-    " Name": "Hydraulic Jaw I [Hund only]",
+    "Name": "Hydraulic Jaw I [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Mars Corp",
@@ -11455,7 +11455,7 @@
     "(power + pen) * shots": 52
   },
   {
-    " Name": "Hydraulic Jaw II [Hund only]",
+    "Name": "Hydraulic Jaw II [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Mars Corp",
@@ -11484,7 +11484,7 @@
     "(power + pen) * shots": 60
   },
   {
-    " Name": "Hydraulic Jaw II [Hund only]",
+    "Name": "Hydraulic Jaw II [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Mars Corp",
@@ -11513,7 +11513,7 @@
     "(power + pen) * shots": 60
   },
   {
-    " Name": "Hydraulic Jaw II [Hund only]",
+    "Name": "Hydraulic Jaw II [Hund only]",
     "Unique": true,
     "Hund": true,
     "Maker": "Mars Corp",
@@ -11542,7 +11542,7 @@
     "(power + pen) * shots": 60
   },
   {
-    " Name": "Hydraulic Jaw II [Hund only]",
+    "Name": "Hydraulic Jaw II [Hund only]",
     "Unique": false,
     "Hund": true,
     "Maker": "Mars Corp",
