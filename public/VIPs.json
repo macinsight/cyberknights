@@ -1,0 +1,2002 @@
+[
+  {
+    "Name": "Dullus Jo",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": "Mars",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 1
+  },
+  {
+    "Name": "Paradox",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Paramilitary Supplies",
+    "Special": false,
+    "Shop Order": 2
+  },
+  {
+    "Name": "Dave Macky",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 3
+  },
+  {
+    "Name": "Derick Yakano",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": "Yakashima",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 4
+  },
+  {
+    "Name": "Whiz Jennings",
+    "Faction": "AzTek",
+    "Connector Type": "Data",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 5
+  },
+  {
+    "Name": "Citizen McKro",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 6
+  },
+  {
+    "Name": "Rena Katy-Stein",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 7
+  },
+  {
+    "Name": "Bella Crane",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 8
+  },
+  {
+    "Name": "Security Officer Krane",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 9
+  },
+  {
+    "Name": "Remo",
+    "Faction": "AzTek",
+    "Connector Type": "Data",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 10
+  },
+  {
+    "Name": "Cleric",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 11
+  },
+  {
+    "Name": "Quinn Prince",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 12
+  },
+  {
+    "Name": "Dylan Carroll",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "AgentEX [¥1680]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 13
+  },
+  {
+    "Name": "Bacto",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": "Yakashima",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 14
+  },
+  {
+    "Name": "Thaddeus",
+    "Faction": "AzTek",
+    "Connector Type": "Politico",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 15
+  },
+  {
+    "Name": "Rip Tide",
+    "Faction": "AzTek",
+    "Connector Type": "Militant",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 16
+  },
+  {
+    "Name": "Ali Du Luvio",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": "Mars",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 17
+  },
+  {
+    "Name": "Nikola Detries",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Ammo",
+    "Special": false,
+    "Shop Order": 18
+  },
+  {
+    "Name": "Staff",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": "Lounge Attendant",
+    "Shop Order": 19
+  },
+  {
+    "Name": "Kendall Mullins",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 20
+  },
+  {
+    "Name": "Jorge Thunder",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Buys Paydata": "Yakuza",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 21
+  },
+  {
+    "Name": "Dominique Thalos",
+    "Faction": "AzTek [Work Isle]",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 1
+  },
+  {
+    "Name": "Zigs and Zags",
+    "Faction": "AzTek [Work Isle]",
+    "Connector Type": false,
+    "Buys Paydata": "Mars",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 2
+  },
+  {
+    "Name": "Mrs. Verve",
+    "Faction": "AzTek [Work Isle]",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Sniper (Shotgun, Rifle) [¥1680]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 3
+  },
+  {
+    "Name": "Halfpipe",
+    "Faction": "AzTek [Work Isle]",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "A12 Island Chems",
+    "Special": false,
+    "Shop Order": 4
+  },
+  {
+    "Name": "Jackhammer Sam",
+    "Faction": "AzTek [Work Isle]",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Ammo",
+    "Special": false,
+    "Shop Order": 5
+  },
+  {
+    "Name": "F16",
+    "Faction": "AzTek [Work Isle]",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 6
+  },
+  {
+    "Name": "Staff",
+    "Faction": "AzTek [Work Isle]",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": "Lounge Attendant",
+    "Shop Order": 7
+  },
+  {
+    "Name": "Korba Rolls",
+    "Faction": "AzTek [Work Isle]",
+    "Connector Type": false,
+    "Buys Paydata": "Yakashima",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 8
+  },
+  {
+    "Name": "Moon Boy Bouncer",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": "Lounge Attendant",
+    "Shop Order": 1
+  },
+  {
+    "Name": "Moon-Eyes",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": "Pawn Broker",
+    "Shop Order": 2
+  },
+  {
+    "Name": "Moses Parrish",
+    "Faction": "Blue Ox",
+    "Connector Type": "Smuggler",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 3
+  },
+  {
+    "Name": "Marx Matthews",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": "Los V",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 4
+  },
+  {
+    "Name": "Heckles",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": "Fennian",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 5
+  },
+  {
+    "Name": "Ama Lee",
+    "Faction": "Blue Ox",
+    "Connector Type": "Investigator",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 6
+  },
+  {
+    "Name": "Dame X",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 7
+  },
+  {
+    "Name": "Captain Lee",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 8
+  },
+  {
+    "Name": "Frak Bugger",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Gunslinger [¥1512]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 9
+  },
+  {
+    "Name": "Rachelle",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": "Streets",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 10
+  },
+  {
+    "Name": "AlphaMAX",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": "Yakashima",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 11
+  },
+  {
+    "Name": "Vico Sanders",
+    "Faction": "Blue Ox",
+    "Connector Type": "Militant",
+    "Buys Paydata": false,
+    "Persona-Fixer": "Sniper [¥1512]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 12
+  },
+  {
+    "Name": "Dreamdub",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Stims and Crams",
+    "Special": false,
+    "Shop Order": 13
+  },
+  {
+    "Name": "Freezer Burn",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Ammo and Rare Drugs",
+    "Special": false,
+    "Shop Order": 14
+  },
+  {
+    "Name": "Dr. Cortez",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 15
+  },
+  {
+    "Name": "Staff",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": "Lounge Attendant",
+    "Shop Order": 1
+  },
+  {
+    "Name": "Sam Condatta",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 2
+  },
+  {
+    "Name": "Hatchet Gambino",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Hacker [¥1512]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 3
+  },
+  {
+    "Name": "Agent Willis",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 4
+  },
+  {
+    "Name": "Agent Peters",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 5
+  },
+  {
+    "Name": "Agent Snyder",
+    "Faction": "BraveStar",
+    "Connector Type": "Bondsman",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 6
+  },
+  {
+    "Name": "Officer Daamac",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": "K. Horizon",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 7
+  },
+  {
+    "Name": "Agent Pherrell",
+    "Faction": "BraveStar",
+    "Connector Type": "Investigator",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 8
+  },
+  {
+    "Name": "Mr. Shannon",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 9
+  },
+  {
+    "Name": "Clickers",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Nanofalseready Armor",
+    "Special": false,
+    "Shop Order": 10
+  },
+  {
+    "Name": "Ulster",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Medical Supplies",
+    "Special": false,
+    "Shop Order": 11
+  },
+  {
+    "Name": "Nova-Kain",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": "Blue Ox",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 12
+  },
+  {
+    "Name": "Kris Heart",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Cybersword (Fist) [¥1680]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 13
+  },
+  {
+    "Name": "Dr. Tydel",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Medical Supplies",
+    "Special": false,
+    "Shop Order": 14
+  },
+  {
+    "Name": "Soldier Marcus",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 15
+  },
+  {
+    "Name": "Sharp-Eye Sink",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": "K. Horizon",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 16
+  },
+  {
+    "Name": "Chris Grygiel",
+    "Faction": "BraveStar",
+    "Connector Type": "Investigator",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 17
+  },
+  {
+    "Name": "Dr. Hartman",
+    "Faction": "BraveStar",
+    "Connector Type": "Smuggler",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 18
+  },
+  {
+    "Name": "Officer McVicker",
+    "Faction": "BraveStar",
+    "Connector Type": "Data",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 19
+  },
+  {
+    "Name": "Cricket",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Buys Paydata": "K. Horizon",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 20
+  },
+  {
+    "Name": "Winston",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": "Pawn Broker",
+    "Shop Order": 1
+  },
+  {
+    "Name": "Allen Dargaugh",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": "Yakashima",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 2
+  },
+  {
+    "Name": "Colleen Dougan",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": "K. Horizon",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 3
+  },
+  {
+    "Name": "Irish Bouncer",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": "Lounge Attendant",
+    "Shop Order": 4
+  },
+  {
+    "Name": "Old Spit",
+    "Faction": "Fennian",
+    "Connector Type": "Politico",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 5
+  },
+  {
+    "Name": "Emry",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 6
+  },
+  {
+    "Name": "Dwayne Sky",
+    "Faction": "Fennian",
+    "Connector Type": "Flatliner",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 7
+  },
+  {
+    "Name": "Trey Instantaneous",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Hacker [¥1512]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 8
+  },
+  {
+    "Name": "Bing Grady",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Cybersword (Club) [¥840]",
+    "Sells": false,
+    "Special": "VfalseChip (Cava Saint) [¥400 fixed price]",
+    "Shop Order": 9
+  },
+  {
+    "Name": "Downtime",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 10
+  },
+  {
+    "Name": "Jaxxy",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": "VfalseChip (Cava Saint) [¥300 fixed price]",
+    "Shop Order": 11
+  },
+  {
+    "Name": "Skull Face Joe",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Stims and Crams",
+    "Special": false,
+    "Shop Order": 12
+  },
+  {
+    "Name": "White Wings",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 13
+  },
+  {
+    "Name": "Six Clip",
+    "Faction": "Fennian",
+    "Connector Type": "Militant",
+    "Buys Paydata": false,
+    "Persona-Fixer": "Cybersword (Club) [¥840]",
+    "Sells": false,
+    "Special": "VfalseChip (Cava Saint) [¥400 fixed price]",
+    "Shop Order": 14
+  },
+  {
+    "Name": "Rostok",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": false,
+    "Shop Order": 15
+  },
+  {
+    "Name": "Green Bubble",
+    "Faction": "Fennian",
+    "Connector Type": "Militant",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 16
+  },
+  {
+    "Name": "Narcolez",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Stims and Crams",
+    "Special": false,
+    "Shop Order": 17
+  },
+  {
+    "Name": "Dr. Hammons",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 18
+  },
+  {
+    "Name": "Moxa Trow",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Cybersword (Club) [¥840]",
+    "Sells": false,
+    "Special": "[MnB only] Invitation to meet Sean Kelly; Safehouse (Secured Tower)",
+    "Shop Order": 19
+  },
+  {
+    "Name": "Paggy",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 20
+  },
+  {
+    "Name": "Brady Markus",
+    "Faction": "K. Horizon",
+    "Connector Type": "Smuggler",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 1
+  },
+  {
+    "Name": "Lisa Amazing",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 2
+  },
+  {
+    "Name": "Dema Torrel",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 3
+  },
+  {
+    "Name": "Agent Delirux",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 4
+  },
+  {
+    "Name": "Foster Salvatore",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Gunslinger [¥1512]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 5
+  },
+  {
+    "Name": "Miss Monica",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Face [¥1512]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 6
+  },
+  {
+    "Name": "Dorian",
+    "Faction": "K. Horizon",
+    "Connector Type": "Investigator",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 7
+  },
+  {
+    "Name": "Kavin Kazim",
+    "Faction": "K. Horizon",
+    "Connector Type": "Data",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 8
+  },
+  {
+    "Name": "Antelop",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": "Mars",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 9
+  },
+  {
+    "Name": "Agent Donald",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 10
+  },
+  {
+    "Name": "Tracker Davis",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": "Yakuza",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 11
+  },
+  {
+    "Name": "Hard-Eye Clive",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 12
+  },
+  {
+    "Name": "Red Street",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Ammo",
+    "Special": false,
+    "Shop Order": 13
+  },
+  {
+    "Name": "Nathanial Black",
+    "Faction": "K. Horizon",
+    "Connector Type": "Politico",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 14
+  },
+  {
+    "Name": "Shatterdeck",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": "BraveStar",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 15
+  },
+  {
+    "Name": "Staff",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": "Lounge Attendant",
+    "Shop Order": 16
+  },
+  {
+    "Name": "Hyperpunk Bouncer",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": "Lounge Attendant",
+    "Shop Order": 1
+  },
+  {
+    "Name": "Anna Dennis",
+    "Faction": "Los V",
+    "Connector Type": "Flatliner",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 2
+  },
+  {
+    "Name": "Jordana Priest",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Gunslinger [¥840]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 3
+  },
+  {
+    "Name": "Edmund Church",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Cybersword (Club) [¥840]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 4
+  },
+  {
+    "Name": "Dazer",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 5
+  },
+  {
+    "Name": "Street Pete",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Medical Supplies",
+    "Special": false,
+    "Shop Order": 6
+  },
+  {
+    "Name": "Stiletto",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 7
+  },
+  {
+    "Name": "Saber",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Stims and Crams",
+    "Special": false,
+    "Shop Order": 8
+  },
+  {
+    "Name": "Blue Fingers",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": false,
+    "Shop Order": 9
+  },
+  {
+    "Name": "Vale Cotuer",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": "Pawn Broker",
+    "Shop Order": 10
+  },
+  {
+    "Name": "Cama Kizai",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": "K. Horizon",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 11
+  },
+  {
+    "Name": "Hard-Hand Luke",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": "Yakuza",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 12
+  },
+  {
+    "Name": "Doc Tanner",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 13
+  },
+  {
+    "Name": "Turbo",
+    "Faction": "Los V",
+    "Connector Type": "Smuggler",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 14
+  },
+  {
+    "Name": "Tagger McGin",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 15
+  },
+  {
+    "Name": "Grins",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 16
+  },
+  {
+    "Name": "Isabella Morganti",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 1
+  },
+  {
+    "Name": "Lurking Dreamer",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": "AzTek",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 2
+  },
+  {
+    "Name": "Eon James",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 3
+  },
+  {
+    "Name": "Hades",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": "Yakashima",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 4
+  },
+  {
+    "Name": "Monica Whitney",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 5
+  },
+  {
+    "Name": "Julius Tornado",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": "Yakashima",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 6
+  },
+  {
+    "Name": "Warmack",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": "AzTek",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 7
+  },
+  {
+    "Name": "Priest",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 8
+  },
+  {
+    "Name": "Dr. Kami Su",
+    "Faction": "Mars",
+    "Connector Type": "Data",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 9
+  },
+  {
+    "Name": "Srgt. Commence",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Cybersword (Fist) [¥1680]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 10
+  },
+  {
+    "Name": "Al Tinge",
+    "Faction": "Mars",
+    "Connector Type": "Investigator",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 11
+  },
+  {
+    "Name": "Flamerez",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 12
+  },
+  {
+    "Name": "Captain Dove",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 13
+  },
+  {
+    "Name": "Bream Jupiter",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 14
+  },
+  {
+    "Name": "Ethan Hartman",
+    "Faction": "Mars",
+    "Connector Type": "Militant",
+    "Buys Paydata": false,
+    "Persona-Fixer": "AgentEX [¥1680]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 15
+  },
+  {
+    "Name": "Striker",
+    "Faction": "Mars",
+    "Connector Type": "Militant",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 16
+  },
+  {
+    "Name": "Mercy Mary",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": "Mars Backroom Pass false Arms Dealer [31 Rep, ¥350 fixed price]",
+    "Shop Order": 17
+  },
+  {
+    "Name": "Rufus Burn Curtis",
+    "Faction": "Mars",
+    "Connector Type": "Data",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 18
+  },
+  {
+    "Name": "Ondo",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": "Yakashima",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 19
+  },
+  {
+    "Name": "Bruce Hox",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Paramilitary Supplies",
+    "Special": false,
+    "Shop Order": 20
+  },
+  {
+    "Name": "Staff",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": "Lounge Attendant",
+    "Shop Order": 21
+  },
+  {
+    "Name": "Mallor True",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 22
+  },
+  {
+    "Name": "Porta-Zuka",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Paramilitary Supplies",
+    "Special": false,
+    "Shop Order": 1
+  },
+  {
+    "Name": "Penn Numbers Cannon",
+    "Faction": "Streets",
+    "Connector Type": "Smuggler",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 2
+  },
+  {
+    "Name": "Hellion",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Rare Hacking Gear",
+    "Special": false,
+    "Shop Order": 3
+  },
+  {
+    "Name": "Vermillion",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Military Supplies",
+    "Special": false,
+    "Shop Order": 4
+  },
+  {
+    "Name": "Dark Mouse",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": "Blue Ox",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 5
+  },
+  {
+    "Name": "Mahellion",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 6
+  },
+  {
+    "Name": "Mick Accella",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 7
+  },
+  {
+    "Name": "Monk",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 8
+  },
+  {
+    "Name": "Kid Dekk",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Stims and Crams",
+    "Special": false,
+    "Shop Order": 9
+  },
+  {
+    "Name": "NuVerse",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": false,
+    "Shop Order": 10
+  },
+  {
+    "Name": "Norla Longfang",
+    "Faction": "Streets",
+    "Connector Type": "Investigator",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 11
+  },
+  {
+    "Name": "Dr. Olek",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Medical Supplies",
+    "Special": false,
+    "Shop Order": 12
+  },
+  {
+    "Name": "Mismatch",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": false,
+    "Shop Order": 13
+  },
+  {
+    "Name": "Hurk",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Stims and Crams",
+    "Special": false,
+    "Shop Order": 14
+  },
+  {
+    "Name": "Slikk",
+    "Faction": "Streets",
+    "Connector Type": "Militant",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 15
+  },
+  {
+    "Name": "Dr. Kip",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Medical Supplies",
+    "Special": false,
+    "Shop Order": 16
+  },
+  {
+    "Name": "Eye Sky",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Military Supplies",
+    "Special": false,
+    "Shop Order": 17
+  },
+  {
+    "Name": "Jawa Junk",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Medical Supplies",
+    "Special": false,
+    "Shop Order": 18
+  },
+  {
+    "Name": "Staff",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": "Lounge Attendant",
+    "Shop Order": 19
+  },
+  {
+    "Name": "Thicket Quickest",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Ammo",
+    "Special": false,
+    "Shop Order": 20
+  },
+  {
+    "Name": "Dr. Denwood",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 21
+  },
+  {
+    "Name": "Zorn",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Paramilitary Supplies",
+    "Special": false,
+    "Shop Order": 22
+  },
+  {
+    "Name": "Kami Lee Kurtis",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 1
+  },
+  {
+    "Name": "Alejandro",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": "Mars",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 2
+  },
+  {
+    "Name": "Jeremy Malone",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 3
+  },
+  {
+    "Name": "Ranger",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 4
+  },
+  {
+    "Name": "Sarah Scott",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Face [¥1512]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 5
+  },
+  {
+    "Name": "Poet",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": "Mars",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 6
+  },
+  {
+    "Name": "Skutter",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 7
+  },
+  {
+    "Name": "Suka Taka",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Sniper [¥1512]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 8
+  },
+  {
+    "Name": "Ines Cantu",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 9
+  },
+  {
+    "Name": "Dreams with Turtles",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": "Mars",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 10
+  },
+  {
+    "Name": "Malpractice",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": "AzTek",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 11
+  },
+  {
+    "Name": "Dr. Susan Mince",
+    "Faction": "Yakashima",
+    "Connector Type": "Data",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 12
+  },
+  {
+    "Name": "Dataflow Jon",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Paramilitary Supplies",
+    "Special": "Pawn Broker",
+    "Shop Order": 13
+  },
+  {
+    "Name": "Ultra-Fax",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": "K. Horizon",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 14
+  },
+  {
+    "Name": "Officer Mitchell",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Unique Hacking Gear",
+    "Special": false,
+    "Shop Order": 15
+  },
+  {
+    "Name": "Doctor Code",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": false,
+    "Shop Order": 16
+  },
+  {
+    "Name": "Citizen Niam",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 17
+  },
+  {
+    "Name": "Ravetek",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Military Supplies",
+    "Special": false,
+    "Shop Order": 18
+  },
+  {
+    "Name": "Hawkins",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 19
+  },
+  {
+    "Name": "Nomad Angel",
+    "Faction": "Yakashima",
+    "Connector Type": "Politico",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 20
+  },
+  {
+    "Name": "Doc Kern",
+    "Faction": "Yakashima",
+    "Connector Type": "Militant",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 21
+  },
+  {
+    "Name": "Eagle-Beard",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": "AzTek",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 22
+  },
+  {
+    "Name": "Moreti",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Medical Supplies",
+    "Special": false,
+    "Shop Order": 23
+  },
+  {
+    "Name": "Staff",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": "Lounge Attendant",
+    "Shop Order": 24
+  },
+  {
+    "Name": "Benicio",
+    "Faction": "Yakuza",
+    "Connector Type": "Data",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 1
+  },
+  {
+    "Name": "Staff",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": "Lounge Attendant",
+    "Shop Order": 2
+  },
+  {
+    "Name": "Whip Fang",
+    "Faction": "Yakuza",
+    "Connector Type": "Militant",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 3
+  },
+  {
+    "Name": "Ging Ke Kury",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Gunslinger [¥840]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 4
+  },
+  {
+    "Name": "Monique Kendall",
+    "Faction": "Yakuza",
+    "Connector Type": "Smuggler",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 5
+  },
+  {
+    "Name": "Trip Stance",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Basic Medical Supplies",
+    "Special": false,
+    "Shop Order": 6
+  },
+  {
+    "Name": "Darla Britts",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Paramilitary Supplies",
+    "Special": false,
+    "Shop Order": 7
+  },
+  {
+    "Name": "Nino Doors",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": "Face [¥1512]",
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 8
+  },
+  {
+    "Name": "Killer Mike",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": "Fennian",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 9
+  },
+  {
+    "Name": "Kazuo Ichin",
+    "Faction": "Yakuza",
+    "Connector Type": "Politico",
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": "Ladder rewards",
+    "Shop Order": 10
+  },
+  {
+    "Name": "Kimi",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": "Pawn Broker",
+    "Shop Order": 11
+  },
+  {
+    "Name": "Akurai",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": "Mars",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 12
+  },
+  {
+    "Name": "Griffon",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": "BraveStar",
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 13
+  },
+  {
+    "Name": "Mr. Crack-eye",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 14
+  },
+  {
+    "Name": "Saiko Flute",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": "Paramilitary Supplies",
+    "Special": false,
+    "Shop Order": 15
+  },
+  {
+    "Name": "Standard Strike",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Buys Paydata": false,
+    "Persona-Fixer": false,
+    "Sells": false,
+    "Special": false,
+    "Shop Order": 16
+  }
+]

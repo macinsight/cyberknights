@@ -1,0 +1,652 @@
+[
+  {
+    "Contact": "Arizon Hicks",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Yakashima",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Benni the Taxi Driver",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Taxi Heat Limit": 30,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Sandbox: start; MnB: Ricco's Boat SERV"
+  },
+  {
+    "Contact": "Black Day",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "AzTek",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Bronze Brawn",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Yakuza",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Captain Cursed",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Captain Malloy",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "K. Horizon",
+    "MnB Only": false,
+    "Special": "¥100 gift",
+    "Sources": "Blackwater Saloon"
+  },
+  {
+    "Contact": "Casey Cox",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Los V",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Cava Saint",
+    "Faction": "Fennian",
+    "Connector Type": "Ladder",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": "Ladder rewards",
+    "Sources": "Jaxxy; Six Clip; Bing Grady; MnB: Max Mercer"
+  },
+  {
+    "Contact": "Cognac Brawn",
+    "Faction": "Streets",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Los V",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "The Bungalow [16 Rep]"
+  },
+  {
+    "Contact": "Devil",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Mars",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Digital Noise",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "K. Horizon",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Digital Wall",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "AzTek",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Doc Crawford",
+    "Faction": "AzTek",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Doc Liz",
+    "Faction": "Mars",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Mars",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Doctor All Come",
+    "Faction": "AzTek",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Dr. Cure All",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": "Frontline MedifalseSecure Pass [¥200 fixed price, 16 Rep]]",
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Face Dancer",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Fallen",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Yakuza",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Frederic Flynn",
+    "Faction": "Fennian",
+    "Connector Type": "Ladder",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": true,
+    "Special": "Training with Mallor [11 Rep]; Graduate from tutorial [51 Rep]",
+    "Sources": "MnB: Max Mercer"
+  },
+  {
+    "Contact": "Gadget",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Mars",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Gambler Prince",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "K. Horizon",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Gibson",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Yakuza",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter; MnB: Weingart Association [41 Rep]"
+  },
+  {
+    "Contact": "Gravedigger",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Los V",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Hunter",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "K. Horizon",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Investigator Shahin",
+    "Faction": "BraveStar",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "K. Horizon",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter; Texas Powers [26 Rep]"
+  },
+  {
+    "Contact": "Ion Archie",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Mars",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Jennings",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Taxi Heat Limit": 503,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Jonny Vaughn",
+    "Faction": "Mars",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Kass Bad-Eye",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "K. Horizon",
+    "MnB Only": false,
+    "Special": "¥500 gift; Ladder rewards; Fixer: Cybersword (Club) [¥840]",
+    "Sources": "Los Valentinos Den"
+  },
+  {
+    "Contact": "Kurshid",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Lucky King",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "BraveStar",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Luka Porsche",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": true,
+    "Special": false,
+    "Sources": "MnB: MnB start"
+  },
+  {
+    "Contact": "Max Mercer",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": true,
+    "Special": "5x Mars Citizen Booster Card [start of East Wind Niner]",
+    "Sources": "MnB: End of the Road Bar"
+  },
+  {
+    "Contact": "McCougan",
+    "Faction": "Fennian",
+    "Connector Type": "Flatliner",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Cava Saint [151 Rep]"
+  },
+  {
+    "Contact": "McFly",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Taxi Heat Limit": 20,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter; E-Street Pharmacy [Y100 fixed price]"
+  },
+  {
+    "Contact": "Mr. Luck",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Aztek",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Ms. Grim",
+    "Faction": "Fennian",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Ms. Grin",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Nameless",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "BraveStar",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Nelson Garden",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Old Doc",
+    "Faction": "K. Horizon",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Patty Coogan",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Blue Ox",
+    "MnB Only": false,
+    "Special": "Backroom Pass false Arms Dealer [¥200 fixed price]",
+    "Sources": "Encounter; MnB: Cava Saint [101 Rep]"
+  },
+  {
+    "Contact": "Quarter Speed",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Taxi Heat Limit": 10,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Riddle Five",
+    "Faction": "Yakashima",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "AzTek",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Shingiin",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Mars",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Sister Boyd",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Yakashima",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Skull",
+    "Faction": "Yakuza",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Slayer",
+    "Faction": "BraveStar",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Stalker",
+    "Faction": "AzTek",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Surgeon Meyer",
+    "Faction": "Mars",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Texas Powers",
+    "Faction": "BraveStar",
+    "Connector Type": "Ladder",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": "Ladder rewards",
+    "Sources": "Encounter; Back Room of Blue Steel [6 Rep]"
+  },
+  {
+    "Contact": "The Alchemist",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "The Gentleman King",
+    "Faction": "K. Horizon",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter; Victor [151 Blue Ox Rep]"
+  },
+  {
+    "Contact": "The Kidd",
+    "Faction": "K. Horizon",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Yakuza",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "The King",
+    "Faction": "Fennian",
+    "Connector Type": false,
+    "Taxi Heat Limit": 205,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter; Cava Saint [41 Rep]"
+  },
+  {
+    "Contact": "Three Finger Jake",
+    "Faction": "Blue Ox",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Fennian",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter; Victor [21 Rep]"
+  },
+  {
+    "Contact": "Tiberius Tuna",
+    "Faction": "Yakuza",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "BraveStar",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter; Kazuo Ichin [91 Rep]"
+  },
+  {
+    "Contact": "Tornado",
+    "Faction": "Los V",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Troy McCoy",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Yakashima",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Victor",
+    "Faction": "Blue Ox",
+    "Connector Type": "Ladder",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": "Ladder rewards",
+    "Sources": "Encounter; Rare Flask Inn [6 Rep, complete mission]"
+  },
+  {
+    "Contact": "Vinny the Rat",
+    "Faction": "Los V",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Laughing Dog Bar"
+  },
+  {
+    "Contact": "Whip Powell",
+    "Faction": "AzTek",
+    "Connector Type": "Connector",
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Wizard Coleman",
+    "Faction": "Streets",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": false,
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Wolf",
+    "Faction": "AzTek",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Yakashima",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  },
+  {
+    "Contact": "Wraith",
+    "Faction": "Mars",
+    "Connector Type": false,
+    "Taxi Heat Limit": false,
+    "Buys Paydata": "Yakashima",
+    "MnB Only": false,
+    "Special": false,
+    "Sources": "Encounter"
+  }
+]
