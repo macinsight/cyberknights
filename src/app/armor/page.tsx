@@ -34,7 +34,7 @@ export default function Armor() {
             Hard: curr.Hard,
             Price: curr["Price ¥"],
           });
-  
+
           // Create or update the group
           if (!acc[key]) {
             acc[key] = {
@@ -42,7 +42,7 @@ export default function Armor() {
               sources: [],
             };
           }
-  
+
           // Avoid adding duplicate sources
           const sourceKey = `${curr.Source.trim()}|${curr.Zone.trim()}|${curr["Zone Faction"].trim()}`;
           if (!acc[key].sources.some((s) => `${s.Source}|${s.Zone}|${s.ZoneFaction}` === sourceKey)) {
@@ -52,14 +52,13 @@ export default function Armor() {
               ZoneFaction: curr["Zone Faction"].trim(),
             });
           }
-  
+
           return acc;
         }, {});
-  
+
         setArmorData(Object.values(grouped));
       });
   }, []);
-  
 
   const filteredArmorData = armorData.filter((item) => {
     // Hund filter: Show only items that match the toggle state
@@ -80,13 +79,13 @@ export default function Armor() {
   };
 
   return (
-    <div className="bg-gray-100 min-h-screen flex flex-col">
+    <div className="flex flex-col min-h-screen bg-[var(--background-dark)] text-[var(--foreground-light)] font-[var(--font-family)]">
       <Header />
       <main className="flex-grow py-10 px-6">
         <h1 className="text-3xl font-bold text-center mb-10">Armor</h1>
 
         {/* Filter Controls */}
-        <div className="mb-6 flex justify-center gap-6">
+        <div className="mb-6 flex flex-wrap justify-center gap-6">
           <ToggleSwitch
             label="Elite"
             checked={filters.elite}

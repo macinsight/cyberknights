@@ -6,42 +6,16 @@ import Footer from "../components/Footer";
 
 const IndexPage: React.FC = () => {
   return (
-    <div
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        minHeight: "100vh",
-        backgroundColor: "#111",
-        color: "#fff",
-        fontFamily: "'Inter', sans-serif",
-      }}
-    >
+    <div className="flex flex-col min-h-screen bg-[var(--background-dark)] text-[var(--foreground-light)] font-[var(--font-family)]">
       {/* Header Section */}
       <Header />
 
       {/* Main Content */}
-      <main
-        style={{
-          flex: 1,
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          justifyContent: "center",
-          padding: "20px",
-        }}
-      >
-        <h2 style={{ marginBottom: "30px", fontSize: "2rem", fontWeight: "500" }}>
+      <main className="flex-grow flex flex-col items-center justify-center p-5">
+        <h2 className="mb-8 text-2xl font-medium">
           Explore the World of Cyberknights
         </h2>
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))",
-            gap: "20px",
-            width: "100%",
-            maxWidth: "900px",
-          }}
-        >
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 w-full max-w-[900px]">
           {/* Link Cards */}
           {[
             { label: "Safehouses", href: "/safehouses" },
@@ -51,24 +25,7 @@ const IndexPage: React.FC = () => {
             <a
               key={link.label}
               href={link.href}
-              style={{
-                textDecoration: "none",
-                textAlign: "center",
-                padding: "20px",
-                backgroundColor: "#333",
-                color: "#fff",
-                borderRadius: "15px",
-                fontSize: "1rem",
-                fontWeight: "500",
-                boxShadow: "0 4px 6px rgba(0, 0, 0, 0.2)",
-                transition: "transform 0.3s, background-color 0.3s",
-              }}
-              onMouseEnter={(e) =>
-                (e.currentTarget.style.backgroundColor = "#444")
-              }
-              onMouseLeave={(e) =>
-                (e.currentTarget.style.backgroundColor = "#333")
-              }
+              className="card"
             >
               {link.label}
             </a>

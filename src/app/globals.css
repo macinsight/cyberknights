@@ -3,18 +3,32 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff; /* Default light mode background */
-  --foreground: #171717; /* Default light mode text */
-}
-
-.dark {
-  --background: #0a0a0a; /* Dark mode background */
-  --foreground: #ededed; /* Dark mode text */
+  --background-dark: #111;
+  --foreground-light: #fff;
+  --card-bg: #333;
+  --card-hover-bg: #444;
+  --font-family: 'Inter', sans-serif;
 }
 
 body {
-  background-color: var(--background); /* Dynamically applies background */
-  color: var(--foreground); /* Dynamically applies text color */
-  font-family: Arial, Helvetica, sans-serif;
-  transition: background-color 0.3s, color 0.3s; /* Smooth transitions */
+  background-color: var(--background-dark);
+  color: var(--foreground-light);
+  font-family: var(--font-family);
+}
+
+.card {
+  background-color: var(--card-bg);
+  color: var(--foreground-light);
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s, background-color 0.3s;
+  text-align: center;
+  padding: 20px;
+  font-size: 1rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.card:hover {
+  background-color: var(--card-hover-bg);
 }

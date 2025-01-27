@@ -1,16 +1,36 @@
-export default function ArmorCard({
+import React from "react";
+
+type WeaponCardProps = {
+  name: string;
+  maker: string;
+  weaponType: string;
+  power: number;
+  penetration: number;
+  accuracy: number;
+  ammo: number;
+  range: number;
+  ap: number;
+  speed: number;
+  price: number;
+  stun: boolean;
+  sources: { Source: string; Zone: string; ZoneFaction: string }[];
+};
+
+export default function WeaponCard({
   name,
   maker,
-  ballistics,
-  deflection,
-  dodge,
+  weaponType,
+  power,
+  penetration,
+  accuracy,
+  ammo,
+  range,
+  ap,
+  speed,
   price,
-  nanoReady,
-  hard,
-  ballisticsDeflection,
-  balDefDodge,
+  stun,
   sources,
-}: ArmorCardProps) {
+}: WeaponCardProps) {
   return (
     <div className="bg-[var(--card-bg)] text-[var(--foreground-light)] shadow-lg rounded-2xl p-6 border border-gray-700 hover:bg-[var(--card-hover-bg)] transition duration-300">
       <h2 className="text-xl font-bold mb-4">{name}</h2>
@@ -20,26 +40,38 @@ export default function ArmorCard({
             <strong>Maker:</strong> {maker}
           </p>
           <p>
-            <strong>Ballistics:</strong> {ballistics}
+            <strong>Weapon Type:</strong> {weaponType}
           </p>
           <p>
-            <strong>Deflection:</strong> {deflection}
+            <strong>Power:</strong> {power}
+          </p>
+          <p>
+            <strong>Penetration:</strong> {penetration}
           </p>
         </div>
         <div className="flex-1">
           <p>
-            <strong>Dodge:</strong> {dodge}
+            <strong>Accuracy:</strong> {accuracy}
+          </p>
+          <p>
+            <strong>Ammo:</strong> {ammo > 0 ? ammo : "N/A"}
+          </p>
+          <p>
+            <strong>Range:</strong> {range}
+          </p>
+          <p>
+            <strong>AP:</strong> {ap}
+          </p>
+        </div>
+        <div className="flex-1">
+          <p>
+            <strong>Speed:</strong> {speed}
           </p>
           <p>
             <strong>Price:</strong> ¥{price}
           </p>
           <p>
-            <strong>Nano-Ready:</strong> {nanoReady ? "Yes" : "No"}
-          </p>
-        </div>
-        <div className="flex-1">
-          <p>
-            <strong>Hard:</strong> {hard ? "Yes" : "No"}
+            <strong>Stun:</strong> {stun ? "Yes" : "No"}
           </p>
         </div>
       </div>
