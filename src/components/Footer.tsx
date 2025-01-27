@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
       }}
     >
       <p style={{ margin: 0, fontSize: "1rem", opacity: 0.8 }}>
-        &copy; {new Date().getFullYear()} Cyberknights Companion App. All Rights
+        &copy; {new Date().getFullYear()} macinsight (Website) / Ahab (Data compilation) / Trese Brothers (Game). All Rights
         Reserved.
       </p>
     </footer>

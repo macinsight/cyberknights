@@ -3,19 +3,18 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #ffffff; /* Default light mode background */
+  --foreground: #171717; /* Default light mode text */
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.dark {
+  --background: #0a0a0a; /* Dark mode background */
+  --foreground: #ededed; /* Dark mode text */
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
+  background-color: var(--background); /* Dynamically applies background */
+  color: var(--foreground); /* Dynamically applies text color */
   font-family: Arial, Helvetica, sans-serif;
+  transition: background-color 0.3s, color 0.3s; /* Smooth transitions */
 }

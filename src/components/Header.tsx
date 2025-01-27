@@ -1,23 +1,36 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
+import ToggleSwitch from "@/components/ToggleSwitch";
 
 const Header: React.FC = () => {
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  // Sync dark mode state with the <html> element
+  useEffect(() => {
+    const savedTheme = localStorage.getItem("theme");
+    if (savedTheme === "dark") {
+      setIsDarkMode(true);
+      document.documentElement.classList.add("dark");
+    }
+  }, []);
+
+  useEffect(() => {
+    if (isDarkMode) {
+      document.documentElement.classList.add("dark");
+      localStorage.setItem("theme", "dark");
+    } else {
+      document.documentElement.classList.remove("dark");
+      localStorage.setItem("theme", "light");
+    }
+  }, [isDarkMode]);
+
   return (
-    <header
-      style={{
-        textAlign: "center",
-        padding: "30px 20px",
-        background: "linear-gradient(135deg, #444, #222)",
-        color: "#fff",
-        borderRadius: "0 0 20px 20px",
-        boxShadow: "0 4px 6px rgba(0, 0, 0, 0.2)",
-      }}
-    >
-      <h1 style={{ fontSize: "2.8rem", margin: "0 0 10px", fontWeight: "bold" }}>
-        Cyberknights Companion App
-      </h1>
-      <p style={{ fontSize: "1.2rem", margin: "0", opacity: 0.8 }}>
-        Your ultimate tool for Safehouses, Implants, and Gear.
-      </p>
+    <header className="bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-100 shadow-md p-4 flex justify-between items-center">
+      <h1 className="text-xl font-bold">Cyberknights Companion App</h1>
+      <ToggleSwitch
+        label="Dark Mode"
+        checked={isDarkMode}
+        onChange={setIsDarkMode}
+      />
     </header>
   );
 };
