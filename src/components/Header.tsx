@@ -30,40 +30,8 @@ const Header: React.FC = () => {
         {/* Logo Section */}
         <div className="flex items-center gap-4">
           <Link href="/" className="text-2xl font-bold tracking-tight hover:text-gray-400 transition">
-            Cyberknights
+            Cyberknights Companion App
           </Link>
-        </div>
-
-        {/* Navigation Links */}
-        <nav className="flex flex-wrap items-center gap-6">
-          <Link
-            href="/"
-            className="text-lg hover:text-gray-400 transition duration-200"
-          >
-            Home
-          </Link>
-          <Link
-            href="/armor"
-            className="text-lg hover:text-gray-400 transition duration-200"
-          >
-            Armor
-          </Link>
-          <Link
-            href="/weapons"
-            className="text-lg hover:text-gray-400 transition duration-200"
-          >
-            Weapons
-          </Link>
-          {/* Add more links as needed */}
-        </nav>
-
-        {/* Dark Mode Toggle */}
-        <div className="flex items-center gap-4">
-          <ToggleSwitch
-            label="Dark Mode"
-            checked={isDarkMode}
-            onChange={setIsDarkMode}
-          />
         </div>
       </div>
     </header>

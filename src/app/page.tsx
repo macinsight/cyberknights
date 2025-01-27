@@ -21,9 +21,9 @@ const IndexPage: React.FC = () => {
             { label: "Safehouses", href: "/safehouses" },
             { label: "Implants", href: "/implants" },
             { label: "Gear", href: "/gear" },
-            { label: "Locations", href: "/locations"}
-            { label: "Weapons", href: "/weapons"}
-            { label: "Armor", href: "/armor"}
+            { label: "Locations", href: "/locations"},
+            { label: "Weapons", href: "/weapons"},
+            { label: "Armor", href: "/armor"},
           ].map((link) => (
             <a
               key={link.label}
